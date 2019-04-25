@@ -6,7 +6,8 @@
             "type": "country",
             "id": "gb_vat_0",
             "name": "United Kingdom",
-            "country_code": "GB"
+            "country_code": "GB",
+            "excluded_postal_codes": "\/(^IM[0-9]{1})|(^JE[0-9]{1})|(^GY[0-9]{1,2})\/"
         },
         {
             "type": "country",
