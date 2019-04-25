@@ -13,7 +13,8 @@
             "type": "country",
             "id": "gb_vat_1",
             "name": "Isle of Man",
-            "country_code": "IM"
+            "country_code": "IM",
+            "included_postal_codes": "\/^IM[0-9]{1}\/"
         }
     ]
 }
